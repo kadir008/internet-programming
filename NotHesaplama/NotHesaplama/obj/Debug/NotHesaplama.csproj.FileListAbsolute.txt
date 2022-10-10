@@ -1,0 +1,11 @@
+C:\Users\kadir\source\repos\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe.config
+C:\Users\kadir\source\repos\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+C:\Users\kadir\source\repos\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+C:\Users\kadir\source\repos\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\kadir\source\repos\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.Form1.resources
+C:\Users\kadir\source\repos\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.Properties.Resources.resources
+C:\Users\kadir\source\repos\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.csproj.GenerateResource.cache
+C:\Users\kadir\source\repos\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.exe
+C:\Users\kadir\source\repos\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.pdb
